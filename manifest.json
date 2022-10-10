@@ -1,0 +1,21 @@
+{"name" : "my fist PWA",
+"short_name" : "My App",
+"start_url" :".",
+"background_color": "green",
+"theme_color": "#009578",
+"disply": "standalone",
+
+"icon" : [
+    {
+        "src" : "Image/apple.png",
+        "sizes" : "64x64",
+        "type": "image/png"
+    },
+    {
+        "src" : "",
+        "sizes" : "512x512",
+        "type": "image/png"
+    }
+]
+
+}
